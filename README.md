@@ -1,7 +1,7 @@
 
 <h1>Snitram´s Repository</h1>
 
-![FTessari's GitHub stats](https://github-readme-stats.vercel.app/api?username=ftessari&show_icons=true&theme=radical)
+![fabioSnitram's GitHub stats](https://github-readme-stats.vercel.app/api?username=fabioSnitram&show_icons=true&theme=radical)
       
   <p>Welcome to my GitHub repository! Here you will find a variety of projects and work I am involved with. I am a technology enthusiast and passionate about programming, always seeking to learn and share knowledge with the community.</p>
   <h2>About</h2>
@@ -10,7 +10,7 @@
     <p>Additionally, I'm always willing to collaborate with other developers and learn from the community. So if you have any questions, project ideas or just want to chat, don't hesitate to contact me.</p>
     <p>Thanks for visiting my GitHub and I hope you find something useful or interesting here. Have fun exploring!</p>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fabiotessari/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fabioSnitram/)
 
 fmftessari@gmail.com
 
@@ -23,7 +23,7 @@ fmftessari@gmail.com
   <img aling="center" alt="JavaScript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" /> 
   <img aling="center" alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /> 
         
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ftessari&theme=radical)](https://github.com/ftessari/github-readme-stats)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fabioSnitram&theme=radical)](https://github.com/fabioSnitram/github-readme-stats)
   
 </div>
 <div style="display: inline_block"><br/>
